@@ -1,4 +1,4 @@
-![👋 Hi, my name is Saif Eddin](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
+![👋 Hi, my name is Saif Eddin](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/sushilmagare10" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/sushil-magare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://github.com/saifgo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.facebook.com/saifouf" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/omarsaifeddin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
@@ -22,9 +22,9 @@
 - 💬 Ask me about: **💡 JavaScript, React, Symfony, MySql, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I once debugged a issue while I'm drunk!**
 
- **<h3 align="left">Skills</h3>**
+ **<h3 align="center">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="32" alt="React Native" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="32" alt="Jenkins" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: center;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="32" alt="React Native" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" height="32" alt="Jenkins" style="margin-right: 4px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
